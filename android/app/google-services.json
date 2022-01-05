@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "830232024695",
+    "project_id": "geekiam-60d1f",
+    "storage_bucket": "geekiam-60d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830232024695:android:b7d196cc3e3d7f48cd1872",
+        "android_client_info": {
+          "package_name": "io.geekiam.app.fireflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830232024695-h3n09imt8inagv10tr5sa7ai4vc59471.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwTrO3dNVIj68FtmFcVoRR4PoOD1Axb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830232024695-h3n09imt8inagv10tr5sa7ai4vc59471.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830232024695-s9cud8aopi2ehnq2qicr4utfehallvkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.geekiam.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830232024695:android:f6f68c03a2ab0e8acd1872",
+        "android_client_info": {
+          "package_name": "io.geekiam.app.geekiam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830232024695-h3n09imt8inagv10tr5sa7ai4vc59471.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwTrO3dNVIj68FtmFcVoRR4PoOD1Axb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830232024695-h3n09imt8inagv10tr5sa7ai4vc59471.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830232024695-s9cud8aopi2ehnq2qicr4utfehallvkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.geekiam.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
